@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/countrymanagement/static/css/main.908abbee.css",
+    "main.js": "/countrymanagement/static/js/main.64fed585.js",
+    "static/js/453.fc157c17.chunk.js": "/countrymanagement/static/js/453.fc157c17.chunk.js",
+    "index.html": "/countrymanagement/index.html",
+    "main.908abbee.css.map": "/countrymanagement/static/css/main.908abbee.css.map",
+    "main.64fed585.js.map": "/countrymanagement/static/js/main.64fed585.js.map",
+    "453.fc157c17.chunk.js.map": "/countrymanagement/static/js/453.fc157c17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.908abbee.css",
+    "static/js/main.64fed585.js"
+  ]
+}
